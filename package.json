@@ -1,5 +1,8 @@
 {
   "type": "module",
+  "scripts": {
+    "prepare": "node run-repro.js"
+  },
   "dependencies": {
     "oxc-transform": "^0.68.1"
   },
