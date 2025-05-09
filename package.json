@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "oxc-transform": "^0.68.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17"
+  }
+}
